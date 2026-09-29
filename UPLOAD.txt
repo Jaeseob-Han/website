@@ -1,0 +1,6 @@
+HELIOS GitHub Pages
+
+Upload ALL files and folders here to your GitHub repository root.
+Settings > Pages > Deploy from a branch > main > / (root) > Save.
+You can also double-click index.html to preview locally, without Node.js.
+Do not upload only index.html: assets, en, and ko folders are required.
